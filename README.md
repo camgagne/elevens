@@ -1,1 +1,2 @@
 # elevens
+This project is an implementation of the card game Elevens. The game is played with a standard deck of cards and a board of nine visible cards, where the goal is to remove cards that form valid combinations: either a pair of cards that add up to eleven, or a group of three face cards (Jack, Queen, King). Each time a valid set is selected, new cards are dealt from the deck until no more moves are possible or the deck is empty.
